@@ -6,7 +6,7 @@
   title="Hacktoberfest"
   style="display: inline-block; margin: 0 auto;  max-width: 150px">
 
-# My-Name
+# Welcome to My-Name
 This is a Project I created for anyone just starting out in CSS and Open-Source. The Project as of now contains an example div, you can add a similar section with your name and something about yourself, or you could go all the way out and add something extra you'd want too. Consider this as a learning exercise and your initial step into the world of contribution and Open-Source. If you like the idea of this project make sure to share it with your friends. You can see what the Web Page currently looks like, [Here](https://vansh-goel.github.io/My-Name/)
 
 ## How to get Started
@@ -19,6 +19,10 @@ This is a Project I created for anyone just starting out in CSS and Open-Source.
 **Yes This Project was Inspired from Shawshank Redemption's "Brooks Was Here"**
 
 ---
+## Languages and Tools:
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+
+
 ## 😎 Project Admin
 
 <table>
